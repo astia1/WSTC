@@ -19,6 +19,7 @@ table thead th {
 form {
   border: 3px solid #c9c9c9;
   background-color: #efefef;
+  max-width: 90%;
 }
 h1 {
   color: #ffffff;
@@ -34,7 +35,7 @@ h2 {
 .sg-input {
   border-color: #ffffff;
   border-width: 0 0 0 0;
-  min-width: 400px;
+  min-width: 250px;
 }
 #sgE-7369240-1-2-box > div.sg-question-title > label {
   color: #1b5790;
